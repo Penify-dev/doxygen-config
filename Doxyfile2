@@ -25,3 +25,4 @@ BUILTIN_STL_SUPPORT    = YES
 HIDE_UNDOC_RELATIONS   = NO
 UML_LOOK               = YES
 HTML_STYLESHEET        = "/Users/sumansaurabh/.nvm/versions/node/v20.10.0/lib/node_modules/@jothepro/doxygen-awesome-css/doxygen-awesome.css"
+./doxygen-awesome-css/

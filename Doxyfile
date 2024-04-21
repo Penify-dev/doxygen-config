@@ -29,4 +29,5 @@ UML_LOOK               = YES
 HTML_COLORSTYLE        = LIGHT
 DISABLE_INDEX = NO
 FULL_SIDEBAR = YES
-HTML_EXTRA_STYLESHEET  = "./doxygen-awesome.css" "./doxygen-awesome-sidebar-only.css"
+HTML_EXTRA_STYLESHEET  = "./doxygen-awesome-css/doxygen-awesome.css" "./doxygen-awesome-css/doxygen-awesome-sidebar-only.css"
+HTML_HEADER            = header.html
