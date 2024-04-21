@@ -1,0 +1,27 @@
+
+PROJECT_NAME = "Xeno-rat"
+OUTPUT_DIRECTORY = "/Users/sumansaurabh/Documents/my-startup/docs-xeno-rat/docs"
+GENERATE_XML = YES
+XML_OUTPUT = xml
+RECURSIVE = YES
+CALL_GRAPH = YES
+CALLER_GRAPH = YES
+GRAPHICAL_HIERARCHY = YES
+DIRECTORY_GRAPH = YES
+INTERACTIVE_SVG = YES
+GENERATE_LATEX = FALSE
+USE_MDFILE_AS_MAINPAGE = /Users/sumansaurabh/Documents/my-startup/xeno-rat/README.md
+INPUT = /Users/sumansaurabh/Documents/my-startup/xeno-rat /Users/sumansaurabh/Documents/my-startup/xeno-rat/xeno\ rat\ client /Users/sumansaurabh/Documents/my-startup/xeno-rat/xeno\ rat\ server /Users/sumansaurabh/Documents/my-startup/xeno-rat/Plugins /Users/sumansaurabh/Documents/my-startup/xeno-rat/xeno/README.md
+HAVE_DOT               = YES
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+DISABLE_INDEX          = YES 
+GENERATE_TREEVIEW      = YES
+RECURSIVE              = YES
+BUILTIN_STL_SUPPORT    = YES
+HIDE_UNDOC_RELATIONS   = NO
+UML_LOOK               = YES
+HTML_STYLESHEET        = "/Users/sumansaurabh/.nvm/versions/node/v20.10.0/lib/node_modules/@jothepro/doxygen-awesome-css/doxygen-awesome.css"
