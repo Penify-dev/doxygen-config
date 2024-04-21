@@ -30,5 +30,7 @@ HTML_COLORSTYLE        = LIGHT
 DISABLE_INDEX = NO
 FULL_SIDEBAR = YES
 HTML_EXTRA_STYLESHEET  = "./doxygen-awesome-css/doxygen-awesome.css" "./doxygen-awesome-css/doxygen-awesome-sidebar-only.css" "./doxygen-awesome-css/doxygen-awesome-sidebar-only-darkmode-toggle.css"
-HTML_HEADER            = header.html
+HTML_EXTRA_FILES       = "./doxygen-awesome-css/toggle-alternative-theme.js"
+HTML_HEADER            = "./header.html"
+HTML_FOOTER 		  = "./footer.html"
 # HTML
