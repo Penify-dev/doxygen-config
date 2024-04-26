@@ -1,6 +1,4 @@
 
-PROJECT_NAME = "Xeno-rat"
-OUTPUT_DIRECTORY = "/Users/sumansaurabh/Documents/my-startup/docs-xeno-rat/docs"
 GENERATE_XML = NO
 # XML_OUTPUT = xml
 RECURSIVE = YES
@@ -11,7 +9,6 @@ DIRECTORY_GRAPH = YES
 INTERACTIVE_SVG = YES
 GENERATE_LATEX = FALSE
 USE_MDFILE_AS_MAINPAGE = /Users/sumansaurabh/Documents/my-startup/xeno-rat/README.md
-INPUT = /Users/sumansaurabh/Documents/my-startup/xeno-rat
 HAVE_DOT               = YES
 DOT_IMAGE_FORMAT	   = svg
 DOT_TRANSPARENT 	   = YES
